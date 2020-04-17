@@ -1,0 +1,250 @@
+E:\Dhairya_Project\EventProject\EventProject\obj\Debug\ResolveAssemblyReference.cache
+E:\Dhairya_Project\EventProject\EventProject\obj\Debug\EventProject.Form1.resources
+E:\Dhairya_Project\EventProject\EventProject\obj\Debug\EventProject.frmadmin.resources
+E:\Dhairya_Project\EventProject\EventProject\obj\Debug\EventProject.frmbill.resources
+E:\Dhairya_Project\EventProject\EventProject\obj\Debug\EventProject.frmbillprintout.resources
+E:\Dhairya_Project\EventProject\EventProject\obj\Debug\EventProject.frmcancelation.resources
+E:\Dhairya_Project\EventProject\EventProject\obj\Debug\EventProject.frmcatering.resources
+E:\Dhairya_Project\EventProject\EventProject\obj\Debug\EventProject.frmcateringbooking.resources
+E:\Dhairya_Project\EventProject\EventProject\obj\Debug\EventProject.frmcateringreport.resources
+E:\Dhairya_Project\EventProject\EventProject\obj\Debug\EventProject.frmclient.resources
+E:\Dhairya_Project\EventProject\EventProject\obj\Debug\EventProject.frmclient1rpt.resources
+E:\Dhairya_Project\EventProject\EventProject\obj\Debug\EventProject.frmenquiry.resources
+E:\Dhairya_Project\EventProject\EventProject\obj\Debug\EventProject.frmenquiryrpt.resources
+E:\Dhairya_Project\EventProject\EventProject\obj\Debug\EventProject.frmeventbooking.resources
+E:\Dhairya_Project\EventProject\EventProject\obj\Debug\EventProject.frmeventbookingreport.resources
+E:\Dhairya_Project\EventProject\EventProject\obj\Debug\EventProject.frmeventtype.resources
+E:\Dhairya_Project\EventProject\EventProject\obj\Debug\EventProject.frmguestlist.resources
+E:\Dhairya_Project\EventProject\EventProject\obj\Debug\EventProject.frmhall.resources
+E:\Dhairya_Project\EventProject\EventProject\obj\Debug\EventProject.frmhallbooking.resources
+E:\Dhairya_Project\EventProject\EventProject\obj\Debug\EventProject.frmhallreport.resources
+E:\Dhairya_Project\EventProject\EventProject\obj\Debug\EventProject.frmlogin.resources
+E:\Dhairya_Project\EventProject\EventProject\obj\Debug\EventProject.frmlogin1.resources
+E:\Dhairya_Project\EventProject\EventProject\obj\Debug\EventProject.frmpayment.resources
+E:\Dhairya_Project\EventProject\EventProject\obj\Debug\EventProject.frmpaymentreciept.resources
+E:\Dhairya_Project\EventProject\EventProject\obj\Debug\EventProject.MDIParent1.resources
+E:\Dhairya_Project\EventProject\EventProject\obj\Debug\EventProject.Resources.resources
+E:\Dhairya_Project\EventProject\EventProject\obj\Debug\EventProject.vbproj.GenerateResource.Cache
+E:\Dhairya_Project\EventProject\EventProject\bin\Debug\EventProject.exe
+E:\Dhairya_Project\EventProject\EventProject\bin\Debug\EventProject.pdb
+E:\Dhairya_Project\EventProject\EventProject\bin\Debug\EventProject.xml
+E:\Dhairya_Project\EventProject\EventProject\obj\Debug\EventProject.exe
+E:\Dhairya_Project\EventProject\EventProject\obj\Debug\EventProject.xml
+E:\Dhairya_Project\EventProject\EventProject\obj\Debug\EventProject.pdb
+E:\Dhairya_Project - Copy\EventProject\EventProject\obj\Debug\EventProject.exe
+E:\Dhairya_Project - Copy\EventProject\EventProject\obj\Debug\EventProject.xml
+E:\Dhairya_Project - Copy\EventProject\EventProject\obj\Debug\EventProject.pdb
+E:\Dhairya_Project - Copy\EventProject\EventProject\bin\Debug\EventProject.exe
+E:\Dhairya_Project - Copy\EventProject\EventProject\bin\Debug\EventProject.pdb
+E:\Dhairya_Project - Copy\EventProject\EventProject\bin\Debug\EventProject.xml
+E:\Dhairya_Project - Copy\EventProject\EventProject\obj\Debug\ResolveAssemblyReference.cache
+E:\Dhairya_Project - Copy\EventProject\EventProject\obj\Debug\EventProject.Form1.resources
+E:\Dhairya_Project - Copy\EventProject\EventProject\obj\Debug\EventProject.frmadmin.resources
+E:\Dhairya_Project - Copy\EventProject\EventProject\obj\Debug\EventProject.frmbill.resources
+E:\Dhairya_Project - Copy\EventProject\EventProject\obj\Debug\EventProject.frmbillprintout.resources
+E:\Dhairya_Project - Copy\EventProject\EventProject\obj\Debug\EventProject.frmcancelation.resources
+E:\Dhairya_Project - Copy\EventProject\EventProject\obj\Debug\EventProject.frmcatering.resources
+E:\Dhairya_Project - Copy\EventProject\EventProject\obj\Debug\EventProject.frmcateringbooking.resources
+E:\Dhairya_Project - Copy\EventProject\EventProject\obj\Debug\EventProject.frmcateringreport.resources
+E:\Dhairya_Project - Copy\EventProject\EventProject\obj\Debug\EventProject.frmclient.resources
+E:\Dhairya_Project - Copy\EventProject\EventProject\obj\Debug\EventProject.frmclient1rpt.resources
+E:\Dhairya_Project - Copy\EventProject\EventProject\obj\Debug\EventProject.frmenquiry.resources
+E:\Dhairya_Project - Copy\EventProject\EventProject\obj\Debug\EventProject.frmenquiryrpt.resources
+E:\Dhairya_Project - Copy\EventProject\EventProject\obj\Debug\EventProject.frmeventbooking.resources
+E:\Dhairya_Project - Copy\EventProject\EventProject\obj\Debug\EventProject.frmeventbookingreport.resources
+E:\Dhairya_Project - Copy\EventProject\EventProject\obj\Debug\EventProject.frmeventtype.resources
+E:\Dhairya_Project - Copy\EventProject\EventProject\obj\Debug\EventProject.frmguestlist.resources
+E:\Dhairya_Project - Copy\EventProject\EventProject\obj\Debug\EventProject.frmhall.resources
+E:\Dhairya_Project - Copy\EventProject\EventProject\obj\Debug\EventProject.frmhallbooking.resources
+E:\Dhairya_Project - Copy\EventProject\EventProject\obj\Debug\EventProject.frmhallreport.resources
+E:\Dhairya_Project - Copy\EventProject\EventProject\obj\Debug\EventProject.frmlogin.resources
+E:\Dhairya_Project - Copy\EventProject\EventProject\obj\Debug\EventProject.frmlogin1.resources
+E:\Dhairya_Project - Copy\EventProject\EventProject\obj\Debug\EventProject.frmpayment.resources
+E:\Dhairya_Project - Copy\EventProject\EventProject\obj\Debug\EventProject.frmpaymentreciept.resources
+E:\Dhairya_Project - Copy\EventProject\EventProject\obj\Debug\EventProject.MDIParent1.resources
+E:\Dhairya_Project - Copy\EventProject\EventProject\obj\Debug\EventProject.Resources.resources
+E:\Dhairya_Project - Copy\EventProject\EventProject\obj\Debug\EventProject.vbproj.GenerateResource.Cache
+E:\Dhairya_Project\Dhairya_Project - Copy\EventProject\EventProject\obj\Debug\EventProject.exe
+E:\Dhairya_Project\Dhairya_Project - Copy\EventProject\EventProject\obj\Debug\EventProject.xml
+E:\Dhairya_Project\Dhairya_Project - Copy\EventProject\EventProject\obj\Debug\EventProject.pdb
+G:\ \Dhairya_Project - Copy\EventProject\EventProject\obj\Debug\EventProject.exe
+G:\ \Dhairya_Project - Copy\EventProject\EventProject\obj\Debug\EventProject.xml
+G:\ \Dhairya_Project - Copy\EventProject\EventProject\obj\Debug\EventProject.pdb
+E:\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.exe
+E:\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.xml
+E:\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.pdb
+E:\Dhairya_Project 1\EventProject\EventProject\bin\Debug\EventProject.exe
+E:\Dhairya_Project 1\EventProject\EventProject\bin\Debug\EventProject.pdb
+E:\Dhairya_Project 1\EventProject\EventProject\bin\Debug\EventProject.xml
+E:\Dhairya_Project 1\EventProject\EventProject\obj\Debug\ResolveAssemblyReference.cache
+E:\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.Form1.resources
+E:\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.frmadmin.resources
+E:\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.frmbill.resources
+E:\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.frmbillprintout.resources
+E:\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.frmcancelation.resources
+E:\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.frmcatering.resources
+E:\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.frmcateringbooking.resources
+E:\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.frmcateringreport.resources
+E:\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.frmclient.resources
+E:\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.frmclient1rpt.resources
+E:\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.frmenquiry.resources
+E:\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.frmenquiryrpt.resources
+E:\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.frmeventbooking.resources
+E:\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.frmeventbookingreport.resources
+E:\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.frmeventtype.resources
+E:\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.frmguestlist.resources
+E:\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.frmhall.resources
+E:\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.frmhallbooking.resources
+E:\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.frmhallreport.resources
+E:\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.frmlogin.resources
+E:\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.frmlogin1.resources
+E:\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.frmpayment.resources
+E:\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.frmpaymentreciept.resources
+E:\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.MDIParent1.resources
+E:\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.Resources.resources
+E:\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.vbproj.GenerateResource.Cache
+E:\Dhairya Imp\Projects\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.exe
+E:\Dhairya Imp\Projects\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.xml
+E:\Dhairya Imp\Projects\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.pdb
+E:\Dhairya Imp\Projects\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.vbprojAssemblyReference.cache
+E:\Dhairya Imp\Projects\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.Form1.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.frmadmin.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.frmbill.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.frmbillprintout.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.frmcancelation.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.frmcatering.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.frmcateringbooking.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.frmcateringreport.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.frmclient.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.frmclient1rpt.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.frmenquiry.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.frmenquiryrpt.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.frmeventbooking.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.frmeventbookingreport.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.frmeventtype.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.frmguestlist.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.frmhall.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.frmhallbooking.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.frmhallreport.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.frmlogin.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.frmlogin1.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.frmpayment.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.frmpaymentreciept.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.MDIParent1.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.Resources.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\EventProject\EventProject\obj\Debug\EventProject.vbproj.GenerateResource.cache
+E:\Dhairya Imp\Projects\Dhairya_Project 1\Backup_01012020\EventProject\obj\Debug\EventProject.vbprojAssemblyReference.cache
+E:\Dhairya Imp\Projects\Dhairya_Project 1\Backup_01012020\EventProject\obj\Debug\EventProject.Form1.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\Backup_01012020\EventProject\obj\Debug\EventProject.frmadmin.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\Backup_01012020\EventProject\obj\Debug\EventProject.frmbill.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\Backup_01012020\EventProject\obj\Debug\EventProject.frmbillprintout.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\Backup_01012020\EventProject\obj\Debug\EventProject.frmcancelation.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\Backup_01012020\EventProject\obj\Debug\EventProject.frmcatering.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\Backup_01012020\EventProject\obj\Debug\EventProject.frmcateringbooking.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\Backup_01012020\EventProject\obj\Debug\EventProject.frmcateringreport.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\Backup_01012020\EventProject\obj\Debug\EventProject.frmclient.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\Backup_01012020\EventProject\obj\Debug\EventProject.frmclient1rpt.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\Backup_01012020\EventProject\obj\Debug\EventProject.frmenquiry.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\Backup_01012020\EventProject\obj\Debug\EventProject.frmenquiryrpt.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\Backup_01012020\EventProject\obj\Debug\EventProject.frmeventbooking.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\Backup_01012020\EventProject\obj\Debug\EventProject.frmeventbookingreport.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\Backup_01012020\EventProject\obj\Debug\EventProject.frmeventtype.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\Backup_01012020\EventProject\obj\Debug\EventProject.frmguestlist.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\Backup_01012020\EventProject\obj\Debug\EventProject.frmhall.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\Backup_01012020\EventProject\obj\Debug\EventProject.frmhallbooking.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\Backup_01012020\EventProject\obj\Debug\EventProject.frmhallreport.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\Backup_01012020\EventProject\obj\Debug\EventProject.frmlogin.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\Backup_01012020\EventProject\obj\Debug\EventProject.frmlogin1.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\Backup_01012020\EventProject\obj\Debug\EventProject.frmpayment.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\Backup_01012020\EventProject\obj\Debug\EventProject.frmpaymentreciept.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\Backup_01012020\EventProject\obj\Debug\EventProject.MDIParent1.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\Backup_01012020\EventProject\obj\Debug\EventProject.Resources.resources
+E:\Dhairya Imp\Projects\Dhairya_Project 1\Backup_01012020\EventProject\obj\Debug\EventProject.vbproj.GenerateResource.cache
+E:\Dhairya Imp\Projects\Dhairya_Project 1\Backup_01012020\EventProject\obj\Debug\EventProject.exe
+E:\Dhairya Imp\Projects\Dhairya_Project 1\Backup_01012020\EventProject\obj\Debug\EventProject.xml
+E:\Dhairya Imp\Projects\Dhairya_Project 1\Backup_01012020\EventProject\obj\Debug\EventProject.pdb
+E:\Dhairya Imp\Projects\Dhairya_Project 1\Backup_01012020\EventProject\bin\Debug\EventProject.exe
+E:\Dhairya Imp\Projects\Dhairya_Project 1\Backup_01012020\EventProject\bin\Debug\EventProject.pdb
+E:\Dhairya Imp\Projects\Dhairya_Project 1\Backup_01012020\EventProject\bin\Debug\EventProject.xml
+E:\Dhairya Imp\Projects\Dhairya_Project 1\Backup_01012020\EventProject\bin\Debug\System.Web.Services.dll
+E:\Dhairya Imp\Projects\Dhairya_Project 1\Backup_01012020\EventProject\obj\Debug\EventProject.vbproj.CopyComplete
+E:\Event Project1\Backup_02012020\EventProject\bin\Debug\EventProject.exe
+E:\Event Project1\Backup_02012020\EventProject\bin\Debug\EventProject.pdb
+E:\Event Project1\Backup_02012020\EventProject\bin\Debug\EventProject.xml
+E:\Event Project1\Backup_02012020\EventProject\bin\Debug\System.Web.Services.dll
+E:\Event Project1\Backup_02012020\EventProject\obj\Debug\EventProject.vbprojAssemblyReference.cache
+E:\Event Project1\Backup_02012020\EventProject\obj\Debug\EventProject.Form1.resources
+E:\Event Project1\Backup_02012020\EventProject\obj\Debug\EventProject.frmadmin.resources
+E:\Event Project1\Backup_02012020\EventProject\obj\Debug\EventProject.frmbill.resources
+E:\Event Project1\Backup_02012020\EventProject\obj\Debug\EventProject.frmbillprintout.resources
+E:\Event Project1\Backup_02012020\EventProject\obj\Debug\EventProject.frmcancelation.resources
+E:\Event Project1\Backup_02012020\EventProject\obj\Debug\EventProject.frmcatering.resources
+E:\Event Project1\Backup_02012020\EventProject\obj\Debug\EventProject.frmcateringbooking.resources
+E:\Event Project1\Backup_02012020\EventProject\obj\Debug\EventProject.frmcateringreport.resources
+E:\Event Project1\Backup_02012020\EventProject\obj\Debug\EventProject.frmclient.resources
+E:\Event Project1\Backup_02012020\EventProject\obj\Debug\EventProject.frmclient1rpt.resources
+E:\Event Project1\Backup_02012020\EventProject\obj\Debug\EventProject.frmenquiry.resources
+E:\Event Project1\Backup_02012020\EventProject\obj\Debug\EventProject.frmenquiryrpt.resources
+E:\Event Project1\Backup_02012020\EventProject\obj\Debug\EventProject.frmeventbooking.resources
+E:\Event Project1\Backup_02012020\EventProject\obj\Debug\EventProject.frmeventbookingreport.resources
+E:\Event Project1\Backup_02012020\EventProject\obj\Debug\EventProject.frmeventtype.resources
+E:\Event Project1\Backup_02012020\EventProject\obj\Debug\EventProject.frmguestlist.resources
+E:\Event Project1\Backup_02012020\EventProject\obj\Debug\EventProject.frmhall.resources
+E:\Event Project1\Backup_02012020\EventProject\obj\Debug\EventProject.frmhallbooking.resources
+E:\Event Project1\Backup_02012020\EventProject\obj\Debug\EventProject.frmhallreport.resources
+E:\Event Project1\Backup_02012020\EventProject\obj\Debug\EventProject.frmlogin.resources
+E:\Event Project1\Backup_02012020\EventProject\obj\Debug\EventProject.frmlogin1.resources
+E:\Event Project1\Backup_02012020\EventProject\obj\Debug\EventProject.frmpayment.resources
+E:\Event Project1\Backup_02012020\EventProject\obj\Debug\EventProject.frmpaymentreciept.resources
+E:\Event Project1\Backup_02012020\EventProject\obj\Debug\EventProject.MDIParent1.resources
+E:\Event Project1\Backup_02012020\EventProject\obj\Debug\EventProject.Resources.resources
+E:\Event Project1\Backup_02012020\EventProject\obj\Debug\EventProject.vbproj.GenerateResource.cache
+E:\Event Project1\Backup_02012020\EventProject\obj\Debug\EventProject.vbproj.CopyComplete
+E:\Event Project1\Backup_02012020\EventProject\obj\Debug\EventProject.exe
+E:\Event Project1\Backup_02012020\EventProject\obj\Debug\EventProject.xml
+E:\Event Project1\Backup_02012020\EventProject\obj\Debug\EventProject.pdb
+E:\Project vb.net\Backup_02012020\EventProject\bin\Debug\EventProject.exe
+E:\Project vb.net\Backup_02012020\EventProject\bin\Debug\EventProject.pdb
+E:\Project vb.net\Backup_02012020\EventProject\bin\Debug\EventProject.xml
+E:\Project vb.net\Backup_02012020\EventProject\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Project vb.net\Backup_02012020\EventProject\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Project vb.net\Backup_02012020\EventProject\bin\Debug\CrystalDecisions.Shared.dll
+E:\Project vb.net\Backup_02012020\EventProject\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Project vb.net\Backup_02012020\EventProject\bin\Debug\System.Web.Services.dll
+E:\Project vb.net\Backup_02012020\EventProject\bin\Debug\stdole.dll
+E:\Project vb.net\Backup_02012020\EventProject\bin\Debug\CrystalDecisions.CrystalReports.Engine.xml
+E:\Project vb.net\Backup_02012020\EventProject\bin\Debug\CrystalDecisions.ReportSource.xml
+E:\Project vb.net\Backup_02012020\EventProject\bin\Debug\CrystalDecisions.Shared.xml
+E:\Project vb.net\Backup_02012020\EventProject\bin\Debug\CrystalDecisions.Windows.Forms.xml
+E:\Project vb.net\Backup_02012020\EventProject\obj\Debug\EventProject.vbprojAssemblyReference.cache
+E:\Project vb.net\Backup_02012020\EventProject\obj\Debug\EventProject.Form1.resources
+E:\Project vb.net\Backup_02012020\EventProject\obj\Debug\EventProject.frmadmin.resources
+E:\Project vb.net\Backup_02012020\EventProject\obj\Debug\EventProject.frmbill.resources
+E:\Project vb.net\Backup_02012020\EventProject\obj\Debug\EventProject.frmbillprintout.resources
+E:\Project vb.net\Backup_02012020\EventProject\obj\Debug\EventProject.frmcancelation.resources
+E:\Project vb.net\Backup_02012020\EventProject\obj\Debug\EventProject.frmcatering.resources
+E:\Project vb.net\Backup_02012020\EventProject\obj\Debug\EventProject.frmcateringbooking.resources
+E:\Project vb.net\Backup_02012020\EventProject\obj\Debug\EventProject.frmcateringreport.resources
+E:\Project vb.net\Backup_02012020\EventProject\obj\Debug\EventProject.frmclient.resources
+E:\Project vb.net\Backup_02012020\EventProject\obj\Debug\EventProject.frmclient1rpt.resources
+E:\Project vb.net\Backup_02012020\EventProject\obj\Debug\EventProject.frmenquiry.resources
+E:\Project vb.net\Backup_02012020\EventProject\obj\Debug\EventProject.frmenquiryrpt.resources
+E:\Project vb.net\Backup_02012020\EventProject\obj\Debug\EventProject.frmeventbooking.resources
+E:\Project vb.net\Backup_02012020\EventProject\obj\Debug\EventProject.frmeventbookingreport.resources
+E:\Project vb.net\Backup_02012020\EventProject\obj\Debug\EventProject.frmeventtype.resources
+E:\Project vb.net\Backup_02012020\EventProject\obj\Debug\EventProject.frmguestlist.resources
+E:\Project vb.net\Backup_02012020\EventProject\obj\Debug\EventProject.frmhall.resources
+E:\Project vb.net\Backup_02012020\EventProject\obj\Debug\EventProject.frmhallbooking.resources
+E:\Project vb.net\Backup_02012020\EventProject\obj\Debug\EventProject.frmhallreport.resources
+E:\Project vb.net\Backup_02012020\EventProject\obj\Debug\EventProject.frmlogin.resources
+E:\Project vb.net\Backup_02012020\EventProject\obj\Debug\EventProject.frmlogin1.resources
+E:\Project vb.net\Backup_02012020\EventProject\obj\Debug\EventProject.frmpayment.resources
+E:\Project vb.net\Backup_02012020\EventProject\obj\Debug\EventProject.frmpaymentreciept.resources
+E:\Project vb.net\Backup_02012020\EventProject\obj\Debug\EventProject.MDIParent1.resources
+E:\Project vb.net\Backup_02012020\EventProject\obj\Debug\EventProject.Resources.resources
+E:\Project vb.net\Backup_02012020\EventProject\obj\Debug\EventProject.vbproj.GenerateResource.cache
+E:\Project vb.net\Backup_02012020\EventProject\obj\Debug\EventProject.vbproj.CoreCompileInputs.cache
+E:\Project vb.net\Backup_02012020\EventProject\obj\Debug\EventProject.vbproj.CopyComplete
+E:\Project vb.net\Backup_02012020\EventProject\obj\Debug\EventProject.exe
+E:\Project vb.net\Backup_02012020\EventProject\obj\Debug\EventProject.xml
+E:\Project vb.net\Backup_02012020\EventProject\obj\Debug\EventProject.pdb
